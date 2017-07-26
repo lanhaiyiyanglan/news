@@ -1,5 +1,5 @@
-技术栈（vue2.0+axios+flex布局）
 ![image](https://github.com/lanhaiyiyanglan/news/blob/master/bb.gif)
+技术栈（vue2.0+axios+flex布局）
 用到的主要知识点有vue2.0的组件（注册使用，props传递数据，自定义事件），vue-router,外部插件的使用...
 pages文件夹存放的是2个页面，主页和详情页（Home.vue和Detail.vue）
 components文件夹存放的4个组件(详情页头部DetailHeader.vue,主页头部HomeHeader.vue,列表页1，列表页2）
